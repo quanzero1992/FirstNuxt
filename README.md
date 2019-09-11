@@ -1,0 +1,2 @@
+# FirstNuxt
+First nuxt example
